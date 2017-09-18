@@ -1,0 +1,87 @@
+// custom variables
+$icon-font-path: "../fonts/bootstrap/";
+$border-radius-base:4px;
+$screen-md:998px;
+$screen-lg:998px;
+$container-large-desktop:998px;
+$grid-gutter-width: 30px;
+$grid-float-breakpoint-max:998px;
+
+// typography
+$body-bg:#e2e2e2;
+$font-size-base:16px;
+$line-height-base:1.75;
+$text-color:#000;
+$link-color:#d45000;
+$link-hover-color:#f38921;
+
+$headings-font-family:'gothic_821_tlcondensed', Helvetica, Arial, sans-serif;
+$font-family-sans-serif:"museo-sans", Verdana, Arial, sans-serif;
+
+// headings
+$headings-color:#7b4484;
+$headings-font-weight:400;
+$font-size-h1:($font-size-base*4);
+$font-size-h2:($font-size-base*2);
+$font-size-h3:($font-size-base+10);
+
+
+// colors
+$state-warning-bg:#f07700;
+$state-info-bg:#f4f4f4;
+$state-danger-bg:#84518d;
+$state-danger-color:#f00;
+$state-success-color:#00a950;
+
+// form
+$input-bg:#f4f4f4;
+$input-color:#000;
+$input-border-radius:2px;
+$input-border:#e3dfdf;
+
+
+// buttons
+$btn-primary-color: #fff;
+$btn-primary-bg: #7b4484;
+$btn-primary-border: #7b4484;
+
+$btn-info-color: #fff;
+$btn-info-bg: #00558f;
+$btn-info-border: #00558f;
+
+$btn-danger-color: #fff;
+$btn-danger-bg: #cf2c33;
+$btn-danger-border: #cf2c33;
+
+$btn-success-color: #fff;
+$btn-success-bg: #00a950;
+$btn-success-border: #00a950;
+
+$btn-warning-color: #fff;
+$btn-warning-bg: #f28300;
+$btn-warning-border: #f28300;
+
+// navbar
+$navbar-border-radius:0;
+$navbar-default-border:#fff;
+$grid-float-breakpoint:767px;
+$navbar-height:50px;
+$navbar-margin-bottom:0;
+$navbar-default-color:#fff;
+$navbar-default-bg: #f07700;
+$navbar-default-link-color:#a34b0c;
+$navbar-default-link-active-color:#7b4484;
+$navbar-default-link-hover-color:#7b4484;
+$navbar-default-link-active-bg:#fff;
+$navbar-default-link-hover-bg:#fff;
+$navbar-default-toggle-hover-bg:$link-color;
+$navbar-default-toggle-icon-bar-bg:#7b4484;
+$navbar-default-toggle-border-color:#7b4484;
+
+
+// carousel
+$carousel-text-shadow:0 0 0;
+$carousel-control-color:#7b4484;
+$carousel-indicator-active-bg:#fdb813;
+$carousel-control-opacity:1;
+$carousel-indicator-border-color:#7b4484;
